@@ -17,6 +17,9 @@ Once you load up one of the files, set the Kernel to Python 3, and run all cells
 This applies for all files. <br>
 (Please ignore the old_test.ipynb and the 4502_final.ipynb files).
 
-## Link to Github Repo Containing the Data we used in our project:
+## Link to Github Repo containing our project:
+https://github.com/maha4208/fantasy-football-statistical-analysis
+
+## Link to Github Repo containing the data we used in our project:
 
 https://github.com/fantasydatapros/data
